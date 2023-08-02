@@ -1,0 +1,62 @@
+{
+  "user": [
+    {
+      "id": "1684319839617",
+      "name": "Kunal",
+      "email": "kp@gmail.com",
+      "password": "1234",
+      "mobile": "7041805700",
+      "status": "Unblock"
+    },
+    {
+      "id": "1684321961924",
+      "name": "Kunal Patel",
+      "email": "kpatel@gmail.com",
+      "password": "2405",
+      "mobile": "7041805700",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1684827666308",
+      "name": "kunal",
+      "email": "patel@gmail.com",
+      "subject": "holidays",
+      "message": "someone"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1685259826847",
+      "name": "Kunal Patel",
+      "email": "kunalpatel709492@gmail.com",
+      "username": "KPatel_245",
+      "password": "2405",
+      "terms": ""
+    }
+  ],
+  "product": [
+    {
+      "id": "1685160853697",
+      "image": "https://freepngimg.com/download/ice_cream/25077-2-ice-cream-cup-transparent-background.png",
+      "name": "ice-cream cup",
+      "description": "sweet ice-cream",
+      "price": "100"
+    },
+    {
+      "id": "1685161021658",
+      "image": "https://www.koshericecream.com/wp-content/uploads/PlatinumBarTripleChocolate.png",
+      "name": "Chocolate cover kulfi",
+      "description": "amazing tast",
+      "price": "30"
+    },
+    {
+      "id": "1685506383124",
+      "image": "https://images.wisegeek.com/seven-scoops-of-ice-cream-with-berries.jpg",
+      "name": "icecream",
+      "description": "all flavour",
+      "price": "90"
+    }
+  ]
+}
